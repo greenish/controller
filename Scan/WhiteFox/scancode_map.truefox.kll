@@ -63,7 +63,7 @@ S46 : U"PageUp";
 
 # Bottom Alphabet Row (47-61)
 S47 : U"LShift";
-
+S48 : U"ISO Slash";
 S49 : U"Z";
 S50 : U"X";
 S51 : U"C";
@@ -155,7 +155,7 @@ S[45] <= x:254.64; # x
 
 # Bottom Alphabet Row
 S[47] <= x:11.9; # x
-#S[48] <= x:; # x
+S[48] <= x:23.85; # x
 S[49] <= x:42.9;
 S[50] <= x:61.95;
 S[51] <= x:81;
